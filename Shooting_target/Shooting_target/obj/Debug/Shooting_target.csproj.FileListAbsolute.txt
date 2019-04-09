@@ -1,0 +1,10 @@
+c:\users\user\source\repos\Shooting_target\Shooting_target\bin\Debug\Shooting_target.exe.config
+c:\users\user\source\repos\Shooting_target\Shooting_target\bin\Debug\Shooting_target.exe
+c:\users\user\source\repos\Shooting_target\Shooting_target\bin\Debug\Shooting_target.pdb
+c:\users\user\source\repos\Shooting_target\Shooting_target\obj\Debug\Shooting_target.Form1.resources
+c:\users\user\source\repos\Shooting_target\Shooting_target\obj\Debug\Shooting_target.Properties.Resources.resources
+c:\users\user\source\repos\Shooting_target\Shooting_target\obj\Debug\Shooting_target.csproj.GenerateResource.cache
+c:\users\user\source\repos\Shooting_target\Shooting_target\obj\Debug\Shooting_target.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Shooting_target\Shooting_target\obj\Debug\Shooting_target.exe
+c:\users\user\source\repos\Shooting_target\Shooting_target\obj\Debug\Shooting_target.pdb
+C:\Users\User\source\repos\Shooting_target\Shooting_target\obj\Debug\Shooting_target.csprojAssemblyReference.cache
